@@ -6,7 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-
 ## One Line Summary: 
 
 <insert a one line summary/question for your issue or decision you are seeking>
@@ -29,9 +28,10 @@ assignees: ''
 - **Owner:** <DA member responsible for issue>
 - **Raised By:** <Community Member who raised this issue (can be same as Owner)>
 
-
 ## **Decision(s)**:
+
 <fill in this section upon reaching a decision>
+
 - **Approved By:** <Insert name>
   
 ### Details
@@ -39,5 +39,8 @@ assignees: ''
 - [ ] Actual decision made as a result of discussion
 
 ## **Follow-up**:
+
 <fill in this section upon reaching a decision>
-- [ ] Alternative actions
+  
+- [ ] Actions to implement the decisions
+
