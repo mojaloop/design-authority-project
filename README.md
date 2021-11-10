@@ -12,7 +12,7 @@ This is the Issue and Decision Log for tracking discussion items in the Mojaloop
 ## Decision Making Process:
 
 
-<img src="./assets/decision_making.png" height="100%" width="90%">
+<img src="./assets/decision_making.png" height="100%" width="75%">
 
 ## Can't see the Board?
 
