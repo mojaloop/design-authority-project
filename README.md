@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://mojaloop.io">
-    <img src="./assets/mojaloop_logo.png"/>
+    <img src="./assets/mojaloop_logo_2.png"/>
   </a>
 </p>
 
