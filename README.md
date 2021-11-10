@@ -12,6 +12,8 @@ This is the Issue and Decision Log for tracking discussion items in the Mojaloop
 ## Decision Making Process:
 
 
+<img src="./assets/decision_making.png" height="100%" width="90%">
+
 ## Can't see the Board?
 
 This repo relies on the [Zenhub Browser Extension](https://www.zenhub.com/extension) in order to see Github issues in a scrum board.
