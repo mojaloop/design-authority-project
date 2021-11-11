@@ -1,0 +1,21 @@
+@startuml decision_making
+
+[*] -> Backlog
+Backlog --> InProgress
+InProgress --> Blocked
+Blocked --> InProgress
+InProgress --> Closed
+Closed --> [*]
+
+
+Backlog: - Issue has been raised
+Backlog: - Ready for discussion at the DA
+
+InProgress: - Issue is currently being discussed at DA, awaiting outcome
+
+Blocked: - More inputs are required before the DA makes a decision
+
+Closed: DA Has made a decision. 
+
+@enduml
+ 
